@@ -2,8 +2,7 @@
 
 - 📚 Atualmente estou estudando e me dedicando ao front-end.
 - 🌱 Estou estudando > HTML | CSS | JavaScript | React
-
-<div>
+<div align="center">
   <a href="https://github.com/LucianoHoliv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoHoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoHoliv&layout=compact&langs_count=7&theme=tokyonight"/>
