@@ -4,8 +4,8 @@
 - 🌱 Estou estudando > HTML | CSS | JavaScript | React
 <div align="center">
   <a href="https://github.com/LucianoHoliv">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoHoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoHoliv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" max-width="48%" src="https://github-readme-stats.vercel.app/api?username=LucianoHoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" max-width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoHoliv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
 <div style="display: inline_block"<br>
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="git-pic" height="150" style="border-radius:50px;"
-src="https://img.icons8.com/ios/150/000000/github--v1.png"/>"
+src="https://img.icons8.com/ios/150/000000/github--v1.png"/>
 
   ##
  
