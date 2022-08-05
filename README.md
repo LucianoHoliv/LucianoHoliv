@@ -4,7 +4,7 @@
 - 🌱 Estou estudando > HTML | CSS | JavaScript | React
 <div display="grid">
   <a href="https://github.com/LucianoHoliv">
-  <img height="180em" grid-template-collum="1fr 1fr" src="https://github-readme-stats.vercel.app/api?username=LucianoHoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" grid-template-collumns="1fr 1fr" src="https://github-readme-stats.vercel.app/api?username=LucianoHoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoHoliv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
