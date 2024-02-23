@@ -20,7 +20,5 @@ src="https://img.icons8.com/bubbles/160/000000/github.png"/>
  
   <a href = "mailto:luciano.castellucy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luciano-henrique-3b0383138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/Lucianoholiv/LucianoHoliv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
